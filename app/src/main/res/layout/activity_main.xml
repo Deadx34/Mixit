@@ -110,4 +110,16 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.707" />
 
+    <TextView
+        android:id="@+id/signUpRedirectText"
+        android:layout_width="303dp"
+        android:layout_height="38dp"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.342"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.619" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
